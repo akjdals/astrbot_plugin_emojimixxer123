@@ -1,8 +1,8 @@
-# helloworld
+# emoji表情大合成
 
-AstrBot 插件模板
+你可以通过此插件进行emoji的合成
+格式类似于 /emojimix {emoji1}{emoji2}
 
-A template plugin for AstrBot plugin feature
 
 # 支持
 
