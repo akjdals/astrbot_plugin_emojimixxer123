@@ -6,7 +6,7 @@ import httpx
 import emoji
 
 
-@register("emojimix", "akjdasl", "Emoji合成插件", "1.1", "https://github.com/akjdals/emojimix")
+@register("astrbot_plugin_emojimixxer123", "akjdasl", "Emoji合成插件", "1.1")
 class EmojiMixPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
